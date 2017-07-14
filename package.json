@@ -1,0 +1,22 @@
+{
+  "name": "util-keymirror",
+  "description": "convert string array into object with same key and value ",
+  "version": "1.0.0",
+  "author": "Ben P.P. Tung",
+  "bugs": {
+    "url": "https://github.com/benpptung/util-keymirror/issues"
+  },
+  "homepage": "https://github.com/benpptung/util-keymirror#readme",
+  "keywords": [
+    "keymirror"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/util-keymirror.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

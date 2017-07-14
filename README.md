@@ -1,6 +1,6 @@
 # util-keymirror
 
-Create constant object.
+Create an object similar to React's keymirror
 
 # Usage
 
@@ -12,6 +12,8 @@ const responses = keymirror([
   'NOT_EMAIL_OWNER',
   'NO_CONN_COOKIE'
 ]);
+
+module.exports = responses;
 
 console.log(responses);
 
